@@ -1,5 +1,5 @@
 {
-  "name": "sleuters/fints-hbci-php",
+  "name": "openWebX/fints-hbci-php",
   "description": "PHP Library for the protocols fints and hbci",
   "homepage": "http://fints-hbci-php.markus-schindler.de",
   "version": "1.0.0",
@@ -10,7 +10,7 @@
     }
   },
   "require": {
-    "php": ">=5.3.2",
+    "php": ">=7.0.0",
     "psr/log": "~1.0"
   },
   "require-dev": {
